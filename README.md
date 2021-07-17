@@ -11,7 +11,7 @@ Basically I get inspirations to do random things at random time, for example 3:3
 
 :/
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **MilesExInferno/MilesExInferno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
