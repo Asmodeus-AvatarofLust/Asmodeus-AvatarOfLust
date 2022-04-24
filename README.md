@@ -1,14 +1,16 @@
 # Hi there 👋, My name is Milosh!
 
-### So Basically...
+###Few things about me
 
-I am an useless member of the society with no clue of what the f*** will I do with my life.
-Basically I get inspirations to do random things at random time, for example 3:34am in the f****** morning. 
+Unlike most of other Github users, I am not that much useful in any way, nor creative.
+That's why I'll try and sometimes actually make some random stuff I'm interested in at that very moment.
+Those projects, if you can call them that, can and probably will fail eventually, both because I am inexperienced and lazy.
+Therefore, things you will find here will mostly be useless junk on their own, but it might spark an idea or help you in some way.
 
-* I am learning whatever programming language I feel like learning at the said moment, so I won't list any here.
-* I made useless things in the past that even I forgot about or deleted in the middle of writting said things.
-* I have a talent in coming up with useless stuff that nobody needs in their lives, not even myself, but I still do them.
+* I am not particularly interested in programming as it is, so I'll rather give the idea without doing stuff on my own
+* Those ideas, however, can and probably will be very dumb and useless, but that's to be expected
 
+That summs it up, lads and lasses.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldieno-bg=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
