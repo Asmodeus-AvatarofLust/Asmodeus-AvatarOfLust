@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Milosh!
 
-###Few things about me
+### Few things about me
 
 Unlike most of other Github users, I am not that much useful in any way, nor creative.
 That's why I'll try and sometimes actually make some random stuff I'm interested in at that very moment.
